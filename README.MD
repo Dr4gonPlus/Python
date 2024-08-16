@@ -1,4 +1,4 @@
-# Curso de phyton no senai
+# Curso de phyton no senai.
 
 Curso de capacitação python ofertado pelo programa inovatech em parceria com o SENAI.
 
