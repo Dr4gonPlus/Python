@@ -13,3 +13,4 @@
 | git log | localiza o autor e o historico de commit(cada commit e unico) |
 | git checkout -b 'nome da branch' | cria uma nova branch e ja muda para ela |
 | git checkout 'nome da branch' | muda de uma branch para outra |
+| git merge 'nome da branch' | transfere o arquivo das branch |
