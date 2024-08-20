@@ -1,51 +1,50 @@
-# numero1 = int(input('Informe o primeiro numero \n'))
-# numero2 = int(input('Informe o segundo numero \n'))
+numero1 = int(input('Informe o primeiro numero \n'))
+numero2 = int(input('Informe o segundo numero \n'))
 
-# print(numero1 + numero2)
-# print(type(numero1))
-# print(type(numero2))
+print(numero1 + numero2)
+print(type(numero1))
+print(type(numero2))
 
 
-#nome = 'Jó'
-#idade = 20
-#altura = 1.92
-#vivo = False
+nome = 'Jó'
+idade = 20
+altura = 1.92
+vivo = False
 
 # int()
 # float()
 # str()
 # bool()
 
-#print(int(vivo))
+print(int(vivo))
 
-#print(type(nome))
-#print(type(str(idade)))
-#print(type(altura))
-#print(type(vivo))
+print(type(nome))
+print(type(str(idade)))
+print(type(altura))
+print(type(vivo))
 
-#numero1 = int(input('Informe o primeiro numero \n'))
-#numero2 = int(input('Informe o segundo numero \n'))
+numero1 = int(input('Informe o primeiro numero \n'))
+numero2 = int(input('Informe o segundo numero \n'))
 
-#soma = numero1 + numero2 
-#subtracao = numero1 - numero2
-#multiplicacao = numero1 * numero2
-#divisao = numero1 / numero2
+soma = numero1 + numero2 
+subtracao = numero1 - numero2
+multiplicacao = numero1 * numero2
+divisao = numero1 / numero2
 
 #print(soma)
 #print(subtracao)
-#print(multiplicacao)
-#print(divisao)
+#print(multiplicacao)print(divisao)
 
-#print('A some é: ', soma )
-#print('A subtracao é: '+ str(subtracao))
-#print('A multiplicacao é: {} e a divisao foi {}'.format(multiplicacao, divisao) )
+print('A some é: ', soma )
+print('A subtracao é: '+ str(subtracao))
+print('A multiplicacao é: {} e a divisao foi {}'.format(multiplicacao, divisao) )
 
-#nome = 'Jó'
-#sobrenome = 'Nunes'
+nome = 'Jó'
+sobrenome = 'Nunes'
 
-#print('O seu nome completo é '+ nome +' '+ sobrenome)
-#print('O seu nome completo é', nome , sobrenome)
-#print('O seu nome completo é (nome) (sobrenome) ')
+print('O seu nome completo é '+ nome +' '+ sobrenome)
+print('O seu nome completo é', nome , sobrenome)
+print('O seu nome completo é (nome) (sobrenome) ')
 
 # Informe 10 informações de cadastro pessoal e informe um relatorio com as informações em um unico print.
 # Calcule a area de um trinagulo fornecendo somente base e altura
