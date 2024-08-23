@@ -47,7 +47,6 @@
 #else:
 #    print('pode assistir')
 
-from tkinter import N
 
 #tabela verdade
 
