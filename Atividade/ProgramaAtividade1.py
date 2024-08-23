@@ -3,8 +3,10 @@
 numero = int(input('informe o numero \n'))
 
 if (numero == 1):
-    print('um')
+    print('numero um')
 elif (numero == 2):
-    print('dois')
+    print('numero dois')
 elif (numero == 3):
-    print('tres')
+    print('numero tres')
+else:
+    print('numero invalido')
